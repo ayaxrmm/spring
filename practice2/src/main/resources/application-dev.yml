@@ -1,0 +1,7 @@
+greeting:
+  message: "Hello from DEV"
+  language: en
+
+app:
+  info:
+    name: "Aya from dev"

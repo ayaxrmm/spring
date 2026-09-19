@@ -1,0 +1,7 @@
+greeting:
+  message: "Hello from TEST"
+  language: ru
+
+app:
+  info:
+    name: "Aya from test"

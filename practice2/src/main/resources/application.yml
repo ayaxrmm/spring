@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: practice2
+  profiles:
+    active: dev
+
+greeting:
+  message: "Hello from default profile"
+  language: en
+  max-length: 100
+
+app:
+  info:
+    name: "Aya"
+    age: 20
+    year-of-study: 4
